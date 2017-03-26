@@ -202,6 +202,9 @@ mp = 1  # Mutation Probability
 # Material and Section Properties
 mat = catalogue["S275"]  # Available Material Properties are S235, S275, S355 and S450
 
+# Loading Information
+SDL = 500  # kgf/m2
+
 #- W for wide flange,
 # O for CHS,
 # K for RHS & SHS,
